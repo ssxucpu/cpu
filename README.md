@@ -2,7 +2,8 @@
 
 # SampleCPU
 #"备注"
-## 报告要求（4分/30分）#"备注"
+## 报告要求（4分/30分）#"备注" Failed to connect to github.com port 443 after 21072 ms: Timed out
+
 ### 1. 格式要求：
 > 1. 正文小四号字体
 > 2. 1.25倍行距
