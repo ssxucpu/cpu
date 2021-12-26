@@ -1,2 +1,2 @@
 # cpu
-the fking amazing cpu
+the amazing cpu
